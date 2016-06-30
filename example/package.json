@@ -5,9 +5,13 @@
   "dependencies": {
     "express": "2.5.x",
     "node-markdown": ">= 0.1.1",
-    "lockdown": "0.0.1"
+    "lockdown": "0.0.9"
   },
   "scripts": {
     "preinstall": "../lockdown.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mglinski/npm-lockdown.git"
   }
 }
